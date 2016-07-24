@@ -27,7 +27,6 @@ public:
     bool search(const int) const;
     void insert(const int);
     void remove(const int);
-
 };
 
 #endif //BBTREE_BBTREE_H
